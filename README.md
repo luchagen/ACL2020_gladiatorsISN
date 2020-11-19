@@ -1,5 +1,5 @@
 # ACL2020_gladiatorsISN
-projet en ACL du groupe GladiatorsISN:
+Projet en ACL du groupe GladiatorsISN: voici notre équipe:
 
 Luc Hagen
 
@@ -9,3 +9,4 @@ Ghassen Khedher
 
 et le plus beau,
 Cyril Guirguis
+
