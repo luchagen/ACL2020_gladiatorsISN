@@ -3,7 +3,7 @@ projet en ACL du groupe GladiatorsISN:
 
 Luc Hagen
 
-Ahmed Amine
+Ahmed Amine Zghal
 
 Ghassen Khedher
 
