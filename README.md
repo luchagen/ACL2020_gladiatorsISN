@@ -9,9 +9,7 @@ Ghassen Khedher
 
 et le plus beau,
 Cyril Guirguis
+
 Let's go!
 
-<<<<<<< HEAD
-=======
 
->>>>>>> cc4b671638a4fed8fb8b3a80f99cf96d2277c126
